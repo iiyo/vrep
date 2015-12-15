@@ -1,0 +1,25 @@
+{
+  "name": "vrep",
+  "version": "1.0.0-final.1512151612",
+  "description": "Replaces variables in a string.",
+  "main": "vrep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiyo/vrep.git"
+  },
+  "keywords": [
+    "variables",
+    "replace",
+    "format",
+    "templates"
+  ],
+  "author": "J. Steinbeck <mail@steinbeck.it>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/iiyo/vrep/issues"
+  },
+  "homepage": "https://github.com/iiyo/vrep#readme"
+}
