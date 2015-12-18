@@ -1,6 +1,6 @@
 {
   "name": "vrep",
-  "version": "1.0.0-final.1512151612",
+  "version": "1.0.1-final.1512181002",
   "description": "Replaces variables in a string.",
   "main": "vrep.js",
   "scripts": {

@@ -9,7 +9,7 @@ Replaces variables in a string.
 ## Usage
 
 ```javascript
-var format = require("vrep");
+var format = require("vrep").format;
 
 var text1 = format("Hi, my name is {name} and I'm {age}.", {name: "Marc", age: "23"});
 var text2 = format("Hi, my name is {1} and I'm {2}.", ["Marc", "23"]);
