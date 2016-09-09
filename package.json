@@ -1,10 +1,10 @@
 {
   "name": "vrep",
-  "version": "1.0.1-final.1512181002",
+  "version": "1.1.0",
   "description": "Replaces variables in a string.",
   "main": "vrep.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha tests.js"
   },
   "repository": {
     "type": "git",
