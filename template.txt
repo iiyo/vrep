@@ -1,0 +1,2 @@
+Package name: {name}
+{name} version: {version}

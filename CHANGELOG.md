@@ -1,5 +1,9 @@
 # Changelog for vrep
 
+## 2.0.0 (2017-12-22)
+
+ * Add a command line interface
+
 ## 1.1.0 (2016-09-09)
 
  * Add `escape` function as a parameter to `create`
